@@ -40,3 +40,5 @@ Analyze player performance from the T20 World Cup (2022) and create the Best 11 
 
 # Screenshots of dashboard
 ![1](https://github.com/Shreyansh-333/Cricket_Data_Analytics/assets/87994647/4544884b-1993-419e-88a3-9f2dd3cdee8f)
+
+![2](https://github.com/Shreyansh-333/Cricket_Data_Analytics/assets/87994647/e2c84d1d-7751-4e1e-9934-5d53ba3582c2)
