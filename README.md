@@ -37,3 +37,6 @@ Analyze player performance from the T20 World Cup (2022) and create the Best 11 
 4. 🪄Data Transformation in Power Query
 5. ⚒️Data Modelling and Building Parameters in Power BI using DAX
 6. 📊Building the Dashboard in Power BI
+
+# Screenshots of dashboard
+![1](https://github.com/Shreyansh-333/Cricket_Data_Analytics/assets/87994647/4544884b-1993-419e-88a3-9f2dd3cdee8f)
